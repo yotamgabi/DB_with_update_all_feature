@@ -1,7 +1,6 @@
 # DB with update all feature
 
-## Class: 
-### EfficientDB
+## Class: EfficientDB
 #####   Constructor optionally accepts an initial value for all elements, even if the DB is empty.
 #####   e.g:
 ```Python

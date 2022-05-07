@@ -8,7 +8,7 @@ database = EfficientDB( Optinal : initial_value )
 ```
 ### Properties:
 ```Python
-last_update #retrns the value of the last update_all method.
+last_update #retrns the value of the last set_all method, regardles if some keys had another update afterwards
 ```
 ### Methods: 
 ``` Python
